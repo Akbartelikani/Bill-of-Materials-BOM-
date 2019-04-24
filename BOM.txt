@@ -1,0 +1,20 @@
+code,name,unit,Required
+10,rod @25 st37,kg,2000
+11,rod 30 st37,kg,1500
+13,rod 55 st52,kg,3000
+14,rod 60 ck60,kg,500
+15,rod 30 st37,kg,280
+17,pipe 40*30 st37,kg,400
+18,pipe 50*40 st37,kg,700
+19,pipe 45*40 st37,kg,480
+21,pipe 77*62 st37,kg,550
+22,pipe 100*92 st37,kg,1000
+50,cement,Ton,20
+101,cable 3*3,#,500
+102,cable 3*4,#,700
+151,bolt M25 8.8,#,3000
+152,bolt M28 8.8,#,450
+154,bolt M32 8.8,#,330
+200,welding electrod,kg,150
+202,welding co2 wire3,kg,100
+203,welding co2 wire4,kg,125
